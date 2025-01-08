@@ -1,0 +1,82 @@
+echo "# Dmytro-Buinovskyi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Retr0fuck/Dmytro-Buinovskyi.git
+git push -u origin main
+<!DOCTYPE html> 
+<html lang="uk" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html" 
+      xmlns="http://www.w3.org/1999/html"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>My website </title>
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com" /> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" /> 
+</head> 
+<body> 
+    <!--Wrapper--> 
+    <div class = "wrapper"> 
+        <!-- Main content --> 
+        <div class="main-content" > 
+            <!-- My info--> 
+            <div class="my-info"> 
+                <h2 class="my-profession"> Студент 3-го курсу, мрію стати діджеєм </h2> 
+                <h1 class="my-name"> Буйновський Дмитро Сергійович </h1> 
+                <p class="my-descr"> З 2019 року мрію стати музикантом, але поки що, не вийшло) Я спробував різні жанри для себе, такі як: 
+                Хіп-хоп, реп, рок, а на даний момент, зупинився на електронній музиці. Проблема електронщини полягає в тому, що тут не вийде халтурити, як це відбувається в репі на сьогодні. Якщо ти дійно музикант, то це буде чутно. На даний момент, я вирішив трішки зупинитися з музикою, адже я не бачив того результату, який хотів би бачити. Хотілося б, щоб було як у великих людей, в один чудовий день, з'явилася ідея, яка перегорнула всесвіт.</p> 
+                    <p class="my-descr">   
+                        Давайте почнемо з початку, народився я 17 травня 2005 року. Раніше займався плаванням,спортивним орієнтуванням і навіть карате. Мій спосіб життя налічує близько 7 переломів, які є зовсім різними і при різних обставинах. Потім прийшло розуміння, що спорт не зовсім моє, краще чути вухами, а створювати руками!</p> 
+             </div> 
+            <!-- My project --> 
+            <div class="my-projects-container"> 
+                <h3 class="my-projects-title"> More information about me: </h3> 
+                <ol class="my-projects-list"> 
+                    <li class=" my-projects-item"> 
+                        <a class=" my-projects-item-link" href="my_selo.html" >Social media</a> 
+                        <span class=" my-projects-item-tech">                            
+                        </span> 
+                    </li> 
+                    <li class=" my-projects-item"> 
+                        <a class=" my-projects-item-link" href="myxoby.html" >Song's</a> 
+                        <span class=" my-projects-item-tech"> 
+                        </span> 
+                    <li class=" my-projects-item"> 
+                            <a class=" my-projects-item-link" href="myZVO.html" >Favourite artist</a> 
+                            <span class=" my-projects-item-tech"> 
+                            </span>
+                    </li> 
+                    <li class=" my-projects-item"> 
+                        <a class=" my-projects-item-link" href="pro_mene.html" > First project</a> 
+                        <span class=" my-projects-item-tech"> 
+                        </span> 
+                    </li> 
+                    </li> 
+                </ol> 
+            </div> 
+        </div> 
+            <!-- Sidebar --> 
+            <aside class=" sidebar " > 
+                <img src="photo_5206249929490687023_y.jpg" alt="My photo" > 
+ 
+                <div class="sidebar-content"> 
+                    <!-- Contacts --> 
+                    <div class="contacts-container"> 
+                        <h3 class="contacts-title"> Contacts </h3> 
+                        <p class="contacts-item"> 
+                            <span class=" contacts-type"> C: </span> 
+                            <a class="contacts-link" href="tel:+380639601757" > +380639601757 </a> 
+                        </p> 
+                        <p class="contacts-item">
+<span class="contacts-type"> E: </span> 
+                            <a class="contacts-link" href="mailto:darinamerkulova984@gmail.com">dimabuynovskiy11@gmail.com</a> 
+                        </p> 
+                    </div>     
+                </div> 
+            </aside>
+    </div> 
+</body> 
+</html>

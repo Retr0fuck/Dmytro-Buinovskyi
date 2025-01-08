@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="uk" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"
+      xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My website</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+    <!--Wrapper-->
+    <div class = "wrapper">
+        <!-- Main content -->
+        <div class="main-content" >
+            <!-- My info-->
+            <div class="my-info">
+                <h2 class="my-profession">Тревіс Скотт (справжнє ім'я Жак Бермон Вебстер II) — один із найвідоміших артистів сучасної хіп-хоп сцени, продюсер і автор пісень. Народився 30 квітня 1991 року в Х'юстоні, штат Техас. Його музика — це поєднання інноваційного звучання, експериментальних бітів і глибокої емоційності, що дозволило йому стати іконою для мільйонів слухачів по всьому світу. </h2>
+                <h1 class="my-name"> Чому саме він улюблений виконавець? </h1>
+                <p class="my-descr"> Унікальний стиль
+Тревіс створює музику, яка легко впізнається завдяки його підходу до продакшну. Його треки часто наповнені атмосферними мелодіями, ефектами автотюну та потужними басами. Альбоми, як-от Rodeo, Birds in the Trap Sing McKnight та Astroworld, стали справжніми шедеврами.
+
+Енергетика виступів
+Концерти Тревіса Скотта — це вибухова суміш музики, світлових шоу та неймовірної енергетики. Його фанати, яких він називає "Ragers", відомі своєю відданістю та любов'ю до живих виступів.
+
+Культурний вплив
+Тревіс не лише музикант, а й модний інфлюенсер. Його співпраця з брендами, як-от Nike (лінійка кросівок Air Jordan), McDonald's (спеціальне меню), а також створення власного фестивалю Astroworld, зробили його важливою постаттю сучасної поп-культури.
+
+Тексти з глибоким змістом
+У своїх піснях Тревіс торкається тем, пов'язаних із життєвими викликами, успіхом, втратою та самовдосконаленням. Його лірика часто має автобіографічний характер, що робить його музику близькою для слухачів.
+
+Вплив на нове покоління артистів
+Як продюсер, він допоміг багатьом молодим виконавцям увійти в індустрію. Його творчий підхід надихає нових артистів на експерименти зі звучанням.</p>
+                <h3 class="my-projects-title"> Найвідоміші треки: </h3>
+                <p class="my-descr"> SICKO MODE,
+Goosebumps,
+HIGHEST IN THE ROOM,
+STARGAZING,
+Antidote.</p>
+                <p class="my-descr"> Тревіс Скотт — це приклад того, як талант, амбіції та інновації можуть створити унікальну спадщину в музичній індустрії. Його творчість мотивує та надихає слухачів по всьому світу.</p>
+                
+
+            <!-- My project -->
+            <div class="my-projects-container">
+                <h3 class="my-projects-title"> More info about me </h3>
+
+                <ol class="my-projects-list">
+                    
+
+                    <li class=" my-projects-item">
+                        <a class=" my-projects-item-link" href="my_selo.html" >Social media</a>
+                        <span class=" my-projects-item-tech">                           
+                        </span>
+
+                    </li>
+
+                    <li class=" my-projects-item">
+                        <a class=" my-projects-item-link" href="myxoby.html" >Song's</a>
+                        <span class=" my-projects-item-tech">
+                        </span>
+
+                    <li class=" my-projects-item">
+                            <a class=" my-projects-item-link" href="index.html" > Home page </a>
+                            <span class=" my-projects-item-tech">
+                            </span>
+                    </li>
+                    <li class=" my-projects-item">
+                        <a class=" my-projects-item-link" href="pro_mene.html" > First progect </a>
+                        <span class=" my-projects-item-tech">
+                        </span>
+                    </li>
+                    </li>
+                </ol>
+            </div>
+        </div>      
+                <div class="sidebar-content">
+                    <!-- Contacts -->
+                    <div class="contacts-container">
+                        <h3 class="contacts-title"> Contacts </h3>
+                        <p class="contacts-item">
+                            <span class=" contacts-type"> C: </span>
+                            <a class="contacts-link" href=" tel: +323232323321 " > +323232323321 </a>
+                        </p>
+                        <p class="contacts-item">
+                            <span class="contacts-type"> E: </span>
+                            <a class="contacts-link" href= "mail: dimabuynovskiy11@gmail.com" >dimabuynovskiy11@gmail.com</a>
+                        </p>
+                    </div>
+                    
+
+                    
+                </div>
+            </aside>
+
+    </div>
+</body>
+</html>

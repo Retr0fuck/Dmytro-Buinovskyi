@@ -1,10 +1,3 @@
-echo "# Dmytro-Buinovskyi" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Retr0fuck/Dmytro-Buinovskyi.git
-git push -u origin main
 <!DOCTYPE html> 
 <html lang="uk" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html" 
       xmlns="http://www.w3.org/1999/html"> 
